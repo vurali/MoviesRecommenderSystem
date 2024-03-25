@@ -4,7 +4,7 @@ This repository contains code for a Movies Recommender System. It utilizes colla
 
 ## Data
 
-The dataset is included in the `movies.csv` directory.
+The dataset is included in the `movies.csv` file.
 
 ## Contributing
 
